@@ -15,7 +15,8 @@ public class EurekaServerApp {
 
 	}
 	
-
 }
+
+//Biruk 2
 
 
